@@ -3,8 +3,8 @@
 This Jupyter notebook provides an analysis of ETF returns data stored in an SQL database.
 
 Specifically, it provides:
-* An analysis of PYPL (which is a single asset in the ETF), including a DataFrame created from an SQL query of ETF database data, and interactive plots of daily and cumulative returns.
-* DataFrames created from more advanced SQL queries to optimize the data access of the database.
+* An analysis of PYPL (which is a single asset in the ETF), including a DataFrame created from an SQL query of ETF database data, as well as interactive plots of daily and cumulative returns.
+* DataFrames of PYPL data created from more advanced SQL queries to optimize the data access of the database.
 * An analysis of all holdings in the ETF taken together, again including a DataFrame created from an SQL query and interactive plots.
 
 The analysis can also be deployed as a web application as well.
