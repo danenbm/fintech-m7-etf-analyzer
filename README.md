@@ -17,7 +17,7 @@ This analysis is a Jupyter lab notebook that makes use of the following Python l
 * Numpy
 * Pandas
 * PyViz - hvPlot library
-* SQL Alchemy
+* SQLAlchemy
 
 ---
 
