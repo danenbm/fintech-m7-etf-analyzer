@@ -25,7 +25,7 @@ This analysis is a Jupyter lab notebook that makes use of the following Python l
 
 To use this notebook:
 * Install Jupyter lab Version 2.3.1 and Python 3.7.
-* Numpy and Pandas should be included in the dev environment distribution.
+* Numpy, Pandas, and SQLAlchemy should already be included in the dev environment distribution.  If not, install them.
 * Install PyViz visualization package.
 * Install hvPlot version 0.7.0 or later.
 * Install NodeJS version 12 or later.
